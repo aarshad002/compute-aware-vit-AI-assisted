@@ -7,6 +7,7 @@ Stop after Step 1 and wait for confirmation."
 
 ---
 
+
 ### Step 1 — Dense ViT Baseline
 Time taken: 1 minute 47 seconds
 Human interventions: 2 (permission approvals for bash commands)
